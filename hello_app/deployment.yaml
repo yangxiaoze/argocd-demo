@@ -18,5 +18,5 @@ spec:
     spec:
       containers:
       - name: hello-deployment
-        image: yangxiaoze/hello-app:v1
+        image: yangxiaoze/hello-app:v2
         imagePullPolicy: Always
